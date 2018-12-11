@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Trave2Explore</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here.</string>
+    <string name="travel2explore">TRAVEL2EXPLORE</string>
+    <string name="password">Password</string>
+    <string name="applogo">AppLogo</string>
+    <string name="twit">Twit</string>
+    <string name="insta">insta</string>
+    <string name="facebook">facebook</string>>
+    <string name="click_me">ClICK ME</string>
+    <string name="email_id">Email ID</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="username">Username</string>
+    <string name="remember_me">Remember me</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup">sign up</string>
+    <string name="helloo_welcome_to_the_travel_app">!!Helloo!!WELCOME TO THE TRAVEL APP!!</string>
+    <string name="logout">LOGOUT</string>
+    <string name="if_not_register_then_signup">if not Register Then SignUp</string>
+    <string name="travel2explore_gmail_com">Travel2Explore@gmail.com</string>
+    <string name="goa">Goa</string>
+    <string name="drawerpic">drawerpic</string>
+    <string name="if_not_register_then_register_here">if_not_register_then_Register_here</string>
+    <string name="action_settings">Settings</string>
+    <string name="churchpic">churchpic</string>
+    <string name="church_des">church_Des</string>
+    <string name="church_name">Church Name</string>
+    <string name="church_of_our_lady_of_the_immaculate_conception">Church of Our Lady of the Immaculate Conception</string>
+    <string name="imaculatedetails">This is one of the oldest and most famous churches in Goa. The 17th century structure is in the heart of Panjim – the capital of Goa. The church has a simple and elegant exterior.
+        The interiors are tidy and well-maintained. There are two altars within – one dedicated to Our Lady of Rosary and the other to St. Peter. The Xavier’s Chapel is within the church and is an added attraction.
+        Thousands of devotees visit this church on the day of the feast. This church is of religious and historical significance. It is a landmark structure in the capital city. Visiting this place is one of the best thing to do in Goa.
+        It is located at Church Square, Panaji and is open on all days of the week. The timing in the Mornings – 9.30 am to 12.30 pm and 3.30 pm to 7.30 pm Afternoon. This church much like the others is photographer friendly.</string>
+
+    <string name="vagatordis">Vagator beach is one of the most beautiful and popular North Goa beaches,
+        especially with foreign tourists. It is between the Anjuna beach in the south and the Chapora River.
+        The Olive Ridley Turtle nesting site on Morjim beach is on the other side of the river.
+        The Vagator beach is 22 kilometers from Panaji, the capital of Goa, via the NH66, and 45.7 kilometers from the Dabolim International Airport at Vasco da Gama.
+        The beach is 10.4 kilometers from Mapusa by the Anjuna – Chapora Road</string>
+
+
+    <string name="mangeshdis">Shri Mangesh temple is located at Mangeshi Village in Priol, Ponda taluk,Goa.
+        It is at a distance of 1 km from Mardol close to Nagueshi, 21 km from Panaji the capital of Goa, and 26 km from Margao.
+        This temple is one of the largest and most frequently visited temples in Goa.
+        A perfect blend of modern day art and traditional Hindu pattern, Mangeshi Temple is a must to visit place in Goa.
+        This temple is known for its Deep Stambha which is at its best when lit with hundreds of diyas in the evening.</string>
+
+
+    <string name="sagardis"> Dudhsagar Falls (literally Sea of Milk ) is a four-tiered waterfall located on the Mandovi River in the Indian state of Goa.
+        It is 60 km from Panaji by road and is located on the Madgaon-Belagavi rail route about 46 km east of Madgaon and 80 km south of Belagavi.
+        Dudhsagar Falls is amongst India tallest waterfalls with a height of 310 m (1017 feet) and an average width of 30 metres (100 feet).</string>
+
+    <string name="fortdis">Fort Aguada and its lighthouse is a well-preserved seventeenth-century Portuguese fort standing in Goa, India, on Sinquerim Beach, overlooking the Arabian Sea.
+        The fort was constructed in 1612 to guard against the Dutch and the Marathas. It was a reference point for the vessels coming from Europe at that time.
+        This old Portuguese fort stands on the beach south of Candolim, at the shore of the Mandovi River. It was initially tasked with defense of shipping and the nearby Bardez sub district.
+        A freshwater spring within the fort provided water supply to the ships that used to stop by.This is how the fort got its name: Aguada, meaning Water.
+        Crews of passing ships would often visit to replenish their fresh water stores. On the fort stands a four-storey Portuguese lighthouse, erected in 1864 and the oldest of its kind in Asia.
+        Built in 1612, it was once the grandstand of 79 cannons. It has the capacity of storing 2,376,000 gallons of water, one of the biggest freshwater storages of the time in whole of Asia.
+    </string>
+
+    <string name="church_details">Church Details</string>
+    <string name="our_lady_of_immaculate_conception">Our Lady of Immaculate Conception</string>
+    <string name="rate_here">Rate Here</string>
+    <string name="dont_have_account_register_here">Dont Have Account. Register Here</string>
+    <string name="vagator">Vagator</string>
+    <string name="vagator_beach">Vagator Beach</string>
+    <string name="mangueshi_temple">Mangueshi Temple</string>
+    <string name="dudhsagar_waterfall">Dudhsagar Waterfall</string>
+    <string name="aguada_fort">Aguada Fort</string>
+</resources>

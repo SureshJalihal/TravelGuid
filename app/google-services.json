@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "494203465635",
+    "firebase_url": "https://travel2explore-66779.firebaseio.com",
+    "project_id": "travel2explore-66779",
+    "storage_bucket": "travel2explore-66779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494203465635:android:a0743a716ac2cca4",
+        "android_client_info": {
+          "package_name": "com.example.admin.trave2explore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494203465635-feh35df652i74vi6rrnm2o9pm59t8dkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.trave2explore",
+            "certificate_hash": "1116176a6d8f452df488142eda60f1a6aa97e079"
+          }
+        },
+        {
+          "client_id": "494203465635-uu6jr82s6kfke0k4hnrgsbnb159dmdiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.trave2explore",
+            "certificate_hash": "4c551f0b0e20c03e2adb4f5b988e259fa5421af3"
+          }
+        },
+        {
+          "client_id": "494203465635-3s54e0jhf1dad01v6da8iop07amrkj61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxwUjzVKuoyQEH_1cZPYmrW7y_RAktkQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494203465635-3s54e0jhf1dad01v6da8iop07amrkj61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

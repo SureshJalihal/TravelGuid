@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.trave2explore">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Trave2Explore"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/App">
+
+        <!-- Splash Activity -->
+
+        <activity
+            android:name=".splash_Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Main Activity -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+
+            <!-- <intent-filter> -->
+
+
+            <!-- a -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- &lt;!&ndash;<category android:name="android.intent.category.LAUNCHER" />&ndash;&gt; -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity android:name=".SignIn" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".homepage" />
+        <activity android:name=".gallery" />
+        <activity android:name=".Details" />
+        <activity android:name=".addtohome" />
+        <activity android:name=".add_to_church_item_list" />
+        <activity android:name=".church_item_list" />
+        <activity android:name=".add_to_beach_item_list" />
+        <activity android:name=".beach_item_list" />
+        <activity android:name=".temple_item_list" />
+        <activity android:name=".add_to_temple_item_list" />
+        <activity android:name=".waterfalls_item_list" />
+        <activity android:name=".add_to_waterfalls_item_list" />
+        <activity android:name=".add_to_fort_item_list" />
+        <activity android:name=".fort_item_list" />
+        <activity android:name=".Church" />
+        <activity android:name=".Activity_beache" />
+        <activity android:name=".Activity_temple" />
+        <activity android:name=".Activity_waterfall" />
+        <activity android:name=".fort_activity" />
+        <activity android:name=".Gallery_Church"></activity>
+    </application>
+
+</manifest>
